@@ -1,0 +1,9 @@
+.tag{
+    position: relative;
+    left: 700px;
+    top: 360px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 700px;
+}
